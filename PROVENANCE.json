@@ -1,0 +1,368 @@
+{
+  "schema": "weft-corpus-provenance/1",
+  "source_repository": "https://github.com/Moissanite-Labs/weft",
+  "source_commit": "455b33d3382f827e5a10c9576fd889331b13088a",
+  "path_mapping": "identity: a path here equals the same path in the source repository at source_commit",
+  "files": [
+    {
+      "path": "weft/MOISSANITE-SYNTHESIS.md",
+      "sha256": "c14416dd1cd71fd32a3dfa18648d6775dd6c941f76abae173c48f1b2b3483c7b",
+      "bytes": 6420
+    },
+    {
+      "path": "weft/README.md",
+      "sha256": "c8e8420754150ac75417c0f3829e8b1491346ef4f48f7035f0d1108ff8afbac8",
+      "bytes": 71977
+    },
+    {
+      "path": "weft/WEFT-ARCHITECTURE-LOCK.md",
+      "sha256": "37a22edea1382d44d6be7a82edc5cc415a3c25330d18c90dc86103973746cdd5",
+      "bytes": 4345
+    },
+    {
+      "path": "weft/ahraz.md",
+      "sha256": "a0dee65de9ef785fdd035e909fa3fba7e3c5942a3b16d501e461ad708c22b0bc",
+      "bytes": 18044
+    },
+    {
+      "path": "weft/ainterface.md",
+      "sha256": "2888c9ef6a191ed4cd50b0d2521ea146f832b08a49e7c73c005b1f7679628822",
+      "bytes": 12594
+    },
+    {
+      "path": "weft/almalga.md",
+      "sha256": "0050dc841789443e3ee8cec5ab1ef33be615e7c81c9601462e43b8492a69a748",
+      "bytes": 58520
+    },
+    {
+      "path": "weft/browser-sources/README.md",
+      "sha256": "93554cba218e7843f80deac9b565302e6eec88616d230808bc29e0ea195676d0",
+      "bytes": 5117
+    },
+    {
+      "path": "weft/browser-sources/missing-turns-supplement.md",
+      "sha256": "0fa844948c87d2b1e5bc952bfcbe98a67a289379a8e1774e2969f97ac35848e0",
+      "bytes": 340811
+    },
+    {
+      "path": "weft/browser-sources/thread1-splicers-genesis-90133B.md",
+      "sha256": "d2b8fdd0348894340795b8a9549512151146f281d1fa970d966061983b420838",
+      "bytes": 289610
+    },
+    {
+      "path": "weft/browser-sources/thread1-weft-main-84ADC9.md",
+      "sha256": "00e419f279422ac6589494a29b2403985dcfb02fb9fe8b9fa548a5dd7db637e6",
+      "bytes": 569633
+    },
+    {
+      "path": "weft/browser-sources/thread2-design-main-6C083A.md",
+      "sha256": "2286dfc9f2e903bc769793d75a31f5d3640a124f5216871e1bcb73d74681ddb7",
+      "bytes": 314663
+    },
+    {
+      "path": "weft/browser-sources/widgets/01-sdf-laya-kinetic-typography.html",
+      "sha256": "0aa7ab5c52aea8664e4052b226eaf3d7be51d7666bf86b8093636c9094379799",
+      "bytes": 42872
+    },
+    {
+      "path": "weft/browser-sources/widgets/01-sdf-laya-kinetic-typography.jsx",
+      "sha256": "0ed410b4e89b4697176d2269188ac7699be9672411863bfae1f3ffd6d6eee018",
+      "bytes": 11288
+    },
+    {
+      "path": "weft/browser-sources/widgets/02-mind-palace-spatial-memory.html",
+      "sha256": "f5c3a06010a6bbc1fd5d25ab3ac0a3f2cb9e0a8397974a11a05cc80368c7caa8",
+      "bytes": 263963
+    },
+    {
+      "path": "weft/browser-sources/widgets/02-mind-palace-spatial-memory.jsx",
+      "sha256": "f4fc5464bfb9ef49c67d96dac3e3930d17f859f0fd617ed8f83975355867b0f2",
+      "bytes": 18866
+    },
+    {
+      "path": "weft/browser-sources/widgets/03-morphogenetic-bioelectric-field.html",
+      "sha256": "aff25bb5b24c413d9be8f8004933a365432e3d129d20e3cff12962cf602e783f",
+      "bytes": 48112
+    },
+    {
+      "path": "weft/browser-sources/widgets/03-morphogenetic-bioelectric-field.jsx",
+      "sha256": "96fd518bf797936f0d56645c41f4f6b5f871f2f8b5f526f629076e6dcd41a121",
+      "bytes": 16703
+    },
+    {
+      "path": "weft/browser-sources/widgets/04-neural-cellular-automata.html",
+      "sha256": "b473e06024aeb45ca25a6fd27617efa0320a3d879e845a57c3ee97c5938cdb89",
+      "bytes": 126921
+    },
+    {
+      "path": "weft/browser-sources/widgets/04-neural-cellular-automata.jsx",
+      "sha256": "ba8f858c1129ff9bc3f1fe2e43455bf367949957d55914c4921cdba7827fa4c4",
+      "bytes": 23994
+    },
+    {
+      "path": "weft/browser-sources/widgets/05-interaction-combinator-net.html",
+      "sha256": "fffa7e4b793c7b652b29c111a9e2d40f8a8d8de83ae55b7f48eab72a3358cde9",
+      "bytes": 57664
+    },
+    {
+      "path": "weft/browser-sources/widgets/05-interaction-combinator-net.jsx",
+      "sha256": "a1704c531ee8b8c6c6ebc5ec859f433a2b3580bc494677d58f72b335d084c995",
+      "bytes": 22773
+    },
+    {
+      "path": "weft/deploymap.md",
+      "sha256": "761a9e10b94c5fe5bb89e18358affc8e86b3647e3a93c96978122ee8f46ac241",
+      "bytes": 9052
+    },
+    {
+      "path": "weft/design/alive.md",
+      "sha256": "c610368b87d0e7bfb57afb392e807be1db901f70e821f14e1510351aec3b5005",
+      "bytes": 10601
+    },
+    {
+      "path": "weft/design/anew.md",
+      "sha256": "bc3fa71a5b4cf66d7336a55aed164ef91fd78c6a1ec4c560c5021f9895d312ea",
+      "bytes": 11771
+    },
+    {
+      "path": "weft/design/arrival.md",
+      "sha256": "c0072f412b7da7f6792a589ce65a5dc2b651a05f8618a16dcc90212219d1ef19",
+      "bytes": 8558
+    },
+    {
+      "path": "weft/design/art.md",
+      "sha256": "07efb4b8866ff34e82ecf75b06009bc81a1411ae1978619f3b3576ca4e8bdbee",
+      "bytes": 8806
+    },
+    {
+      "path": "weft/design/aywa.md",
+      "sha256": "34649d4c51cacfbbd31195e35cfd1cd7e7a78c032da57b2d1128ffb13415480a",
+      "bytes": 6644
+    },
+    {
+      "path": "weft/design/baryonic.md",
+      "sha256": "fb7963539e79dbc77e44110c2b32141c6de34e9411bbe9538c24edcb11917495",
+      "bytes": 6960
+    },
+    {
+      "path": "weft/design/bio.md",
+      "sha256": "3d6482b4bd851adb939d2967067cd4d5d5f962a566e59384327800aae1a14909",
+      "bytes": 13068
+    },
+    {
+      "path": "weft/design/build.md",
+      "sha256": "e3040b9fea69d324a09c2737d9cd944ab7c64017194e131ee3b464e34a8657cf",
+      "bytes": 9561
+    },
+    {
+      "path": "weft/design/combine.md",
+      "sha256": "1ce81f025b65823a16cf9101b4e04ce66b5ece36843289c48809152098de14fb",
+      "bytes": 6632
+    },
+    {
+      "path": "weft/design/converge.md",
+      "sha256": "854d163fe759e69270f3292e494f71776f79dcd65486233e60e3d347c1498190",
+      "bytes": 5855
+    },
+    {
+      "path": "weft/design/core.md",
+      "sha256": "684c970e368aef28dc61747aee32d8e501b287a21b549c3427279a610fb08a0f",
+      "bytes": 23834
+    },
+    {
+      "path": "weft/design/craft.md",
+      "sha256": "9cde24ad11e96a294aa830151a7eca6b62cd16c0c634c6098c10daad48e113c5",
+      "bytes": 47648
+    },
+    {
+      "path": "weft/design/create.md",
+      "sha256": "eccd23dac6e85faa9fa1d299846ab5e9208a2acf7c3b007c8c75bd075920eef2",
+      "bytes": 10004
+    },
+    {
+      "path": "weft/design/custom.md",
+      "sha256": "8454d1b5b81914253c91b5dd822f5df1061b208148d870efcc7508748dd50345",
+      "bytes": 10082
+    },
+    {
+      "path": "weft/design/discovery.md",
+      "sha256": "e5301acbfd47b70652cfbf9693dc6c47cf4e7cc9887b9a20e42ae84acec091f5",
+      "bytes": 36976
+    },
+    {
+      "path": "weft/design/done.md",
+      "sha256": "9de4d32f331c06e9a9d701795a13c77fd92e554c1651fa165cc2539f9a2c773c",
+      "bytes": 6498
+    },
+    {
+      "path": "weft/design/eh.md",
+      "sha256": "1c64582a9fc5c92ae1cc4c1bcc5be241f97e4078171264acd28bca7438bc5760",
+      "bytes": 16549
+    },
+    {
+      "path": "weft/design/feeed.md",
+      "sha256": "03015700898d30be31a171452c77ac536b2530fe5058967c6d09f3e6585fe932",
+      "bytes": 56242
+    },
+    {
+      "path": "weft/design/feel.md",
+      "sha256": "41f9fb760d607f9f0f4b418cd175150ec7a6bdf37a271f5c25def18072a4cc63",
+      "bytes": 12840
+    },
+    {
+      "path": "weft/dissertation-mac.md",
+      "sha256": "ed5982d521aa3d44de9f91a36e10825b7a2722436af917621c33b38aa014916f",
+      "bytes": 26637
+    },
+    {
+      "path": "weft/emergent.md",
+      "sha256": "62301080dab87d8746acdbf38e119afd02779bdc79023080c912c0e77461a945",
+      "bytes": 17412
+    },
+    {
+      "path": "weft/ethos.md",
+      "sha256": "5373a39cf8e1b157cdb38858fcf442c27749458251cc233dd66de6760a2f4a52",
+      "bytes": 8120
+    },
+    {
+      "path": "weft/govern.md",
+      "sha256": "fc00a07bfdc9edea73152edc5a373bdbad5b3d5b6f4a3d4c30b5c5d7428e88b2",
+      "bytes": 7922
+    },
+    {
+      "path": "weft/imprint.md",
+      "sha256": "a7d0a8e1c9bb6a1995461d09257c65d357078bd7e0fe67a1d0d00df72f6fe54b",
+      "bytes": 34795
+    },
+    {
+      "path": "weft/langdoc.md",
+      "sha256": "263414ec65a50615b0fcb84f1b779a72e5f9628034c9e3962c5645a97ba121d5",
+      "bytes": 11324
+    },
+    {
+      "path": "weft/launch.md",
+      "sha256": "fcf45166207deb673b54b67ca3db2985862e00dcea99fc59990f6ab49bbce619",
+      "bytes": 51965
+    },
+    {
+      "path": "weft/mac.md",
+      "sha256": "ca7141c35a3f11960d872837814c93a682f5e3dfea17b46a1484f797d189efdb",
+      "bytes": 24671
+    },
+    {
+      "path": "weft/manifest.md",
+      "sha256": "a92eb99bf6a270175fea956eceed8bd4c8c52ed6124c70bab87cadcca3392b79",
+      "bytes": 7421
+    },
+    {
+      "path": "weft/more.md",
+      "sha256": "3a8920be26129e2d3dbdd8586f3fd7a02104281332a2039465f2c6018dbbdc78",
+      "bytes": 10323
+    },
+    {
+      "path": "weft/mugetsu.md",
+      "sha256": "689a11d66dae6bbf56e917a90fc1c6fc36db1a34a1fa92adeb435d888e0a347a",
+      "bytes": 10292
+    },
+    {
+      "path": "weft/pcoom.md",
+      "sha256": "45f6a98911921d8816636bcccd7aa0497225b98d2a7cb9b824bf92fb77e1cdbe",
+      "bytes": 12279
+    },
+    {
+      "path": "weft/penult.md",
+      "sha256": "c939c1a0e0b13495d30add83368c18f20ea25750e43676a9baff740afc204ea8",
+      "bytes": 6181
+    },
+    {
+      "path": "weft/perception.md",
+      "sha256": "2f06054a375fb95de10f350b52191e20f96e5c838276c5a1de67e6f61358c2a0",
+      "bytes": 9614
+    },
+    {
+      "path": "weft/process.md",
+      "sha256": "0db8e6788042cf6beb09d686606f60a766e4dc0c7b4015b81037a82418b8381a",
+      "bytes": 4698
+    },
+    {
+      "path": "weft/prove.md",
+      "sha256": "60a5a1e5700eedff6b779faa6269497b7bf399ded1a36c5c6c8f36239bf2e2fa",
+      "bytes": 11991
+    },
+    {
+      "path": "weft/provocol.md",
+      "sha256": "c7d1424d88995b52dbc1370b237995791f1f309dc497e115a594d2955d16d6cf",
+      "bytes": 10122
+    },
+    {
+      "path": "weft/self.md",
+      "sha256": "f088b44cfa3cb5981ce71470be659dc2e8f143aae98dc4d4d7dc0c61107f4d2c",
+      "bytes": 21454
+    },
+    {
+      "path": "weft/soc.md",
+      "sha256": "3b77c77b4cbdd31f08b27084a63bf1782b2bf1ceb93684840887132ede4ba390",
+      "bytes": 18762
+    },
+    {
+      "path": "weft/spread.md",
+      "sha256": "66fdc426e6874a010e8d7a450ccf3a45edc867b0b4b5254ade72af4eb6e8a5ee",
+      "bytes": 6790
+    },
+    {
+      "path": "weft/terrafab-calc.md",
+      "sha256": "9c8dc4da177e89ab360d1b73133dcb27457aaad8277aeb855b03601c655c6158",
+      "bytes": 10782
+    },
+    {
+      "path": "weft/terrafab.md",
+      "sha256": "eaa16517934cf619b8599e90c649c1d07cbe9c6d15b5f5b528af71f097e1908d",
+      "bytes": 32977
+    },
+    {
+      "path": "weft/terraweft.md",
+      "sha256": "d7433f1443529ecf45d550bef9b6cc109f27bd62d6714275f6892459829e104b",
+      "bytes": 6421
+    },
+    {
+      "path": "weft/test.md",
+      "sha256": "fc0622c56886156db5e896a66213498e4607edfdf0980e88d028b6df68c7d642",
+      "bytes": 17579
+    },
+    {
+      "path": "weft/testenviron.md",
+      "sha256": "5847cdb6d581fb77dc00947dce60083b8f38740df6eec2792e2e27624584f84f",
+      "bytes": 9330
+    },
+    {
+      "path": "weft/tune.md",
+      "sha256": "8829af226d223b9658210f0a72abe31ded554a61fbe3fd92e236ec916542e80e",
+      "bytes": 18222
+    },
+    {
+      "path": "weft/ult.md",
+      "sha256": "8252c0df0cc04a943080c97b19314fd3ce282239ceb73e0602ec94a148aa8be9",
+      "bytes": 11643
+    },
+    {
+      "path": "weft/whitepaper.md",
+      "sha256": "ac1f7eb0fa08e97637defe0deb63b356b928869191ef02aff7e7287e2f58798c",
+      "bytes": 21531
+    },
+    {
+      "path": "weft/whoa.md",
+      "sha256": "9317aa748c4b5f9e39a8ba3b469489af302a9cf101c01ca1a860712e87a49b49",
+      "bytes": 4431
+    },
+    {
+      "path": "weft/wrap.md",
+      "sha256": "b99fc85ec1be8c41e118e70e30089d057a900a0d87f627034235e2ad37179de2",
+      "bytes": 4193
+    },
+    {
+      "path": "weft/xtra.md",
+      "sha256": "19546860bf61c7546ae3459e7a6c34b291e4da196413f6fd9fc67a53e2bf1d81",
+      "bytes": 24468
+    }
+  ]
+}
