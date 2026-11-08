@@ -14,6 +14,9 @@ https://github.com/Moissanite-Labs/weft-corpus".
 of Moissanite Labs. Neither license grants rights to use them except as needed
 to describe the origin of the work.
 
-The exported widgets reference web fonts and a stylesheet hosted by Google.
-Those assets are not part of this repository and remain under their owners'
-terms.
+The exported widgets under weft/browser-sources/widgets/ were produced with a
+Google AI tool. At runtime they import JavaScript modules (React and UI
+libraries) from widgetlibs.static.usercontent.goog and load fonts, styles and
+images from Google hosts (fonts.googleapis.com, fonts.gstatic.com,
+www.gstatic.com). Those resources are not part of this repository and remain
+under their owners' terms.
