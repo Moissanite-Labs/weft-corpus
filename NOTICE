@@ -1,0 +1,19 @@
+Weft corpus
+Copyright 2026 Moissanite Labs and the Weft contributors.
+
+The documents under weft/ are licensed under the Creative Commons Attribution
+4.0 International License (LICENSE). Code listings that appear inside them, and
+the exported widgets under weft/browser-sources/widgets/, may also be used
+under the Apache License, Version 2.0 (LICENSE-code), at your option. The
+tooling in scripts/ and .github/ is under the Apache License, Version 2.0.
+
+Attribution for CC BY 4.0 reuse: "Weft corpus, Moissanite Labs,
+https://github.com/Moissanite-Labs/weft-corpus".
+
+"ML Weft", "Weft" as the name of the project, and "Moissanite Labs" are names
+of Moissanite Labs. Neither license grants rights to use them except as needed
+to describe the origin of the work.
+
+The exported widgets reference web fonts and a stylesheet hosted by Google.
+Those assets are not part of this repository and remain under their owners'
+terms.
