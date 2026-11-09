@@ -1,0 +1,24 @@
+name: Proposal
+description: Recovered session material or tooling for the corpus.
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: Name the files you want to add and where they came from. Recovered files go under weft/ with a PROVENANCE.json entry.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How we will know it works
+      description: scripts/check_corpus.py run, or a falsifier. What result would show this is wrong?
+    validations:
+      required: true

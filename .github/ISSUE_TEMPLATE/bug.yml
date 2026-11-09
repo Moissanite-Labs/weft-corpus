@@ -1,0 +1,32 @@
+name: Bug
+description: A corpus file, the provenance record, or the check script does something wrong.
+labels: [bug]
+body:
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: For example a session file under weft/, PROVENANCE.json, scripts/check_corpus.py, or CI.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to reproduce
+      description: Commands, inputs or a minimal test. A failing test is ideal.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      description: Commit SHA, OS and architecture, and Python version.
+    validations:
+      required: true

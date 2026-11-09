@@ -1,0 +1,27 @@
+name: Claim or evidence gap
+description: A corpus file or its provenance claims more than the source shows, or a claim needs a falsifier.
+labels: [evidence]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Build-work claims (fixing a document, analysing a claim, repairing code from a listing) belong in [Moissanite-Labs/weft](https://github.com/Moissanite-Labs/weft). This form is for claims about the corpus itself.
+  - type: textarea
+    id: claim
+    attributes:
+      label: The claim
+      description: Quote it and link the file and lines.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What the source actually shows
+      description: Link the source session, file or run. Say whether the rule is only stated or actually checked.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed repair or falsifier
+      description: A check, a provenance correction, or a wording change. Keep the session text verbatim and fix the claim about it.
