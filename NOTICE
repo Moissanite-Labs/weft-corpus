@@ -1,11 +1,19 @@
 Weft corpus
 Copyright 2026 Moissanite Labs and the Weft contributors.
 
-The documents under weft/ are licensed under the Creative Commons Attribution
-4.0 International License (LICENSE). Code listings that appear inside them, and
-the exported widgets under weft/browser-sources/widgets/, may also be used
-under the Apache License, Version 2.0 (LICENSE-code), at your option. The
-tooling in scripts/ and .github/ is under the Apache License, Version 2.0.
+This repository is dual-licensed by content type:
+
+  * Documentation and prose are licensed under the Creative Commons
+    Attribution 4.0 International License (LICENSE). This covers the documents
+    under weft/ and the root Markdown documentation (README.md, CONTRIBUTING.md,
+    CODE_OF_CONDUCT.md, SECURITY.md).
+    Code listings that appear inside those documents, and the exported widgets
+    under weft/browser-sources/widgets/, may also be used under the Apache
+    License, Version 2.0 (LICENSE-code), at your option.
+
+  * Tooling, scripts, and repository metadata are licensed under the Apache
+    License, Version 2.0 (LICENSE-code). This covers scripts/, .github/, and
+    PROVENANCE.json.
 
 Attribution for CC BY 4.0 reuse: "Weft corpus, Moissanite Labs,
 https://github.com/Moissanite-Labs/weft-corpus".
@@ -14,9 +22,19 @@ https://github.com/Moissanite-Labs/weft-corpus".
 of Moissanite Labs. Neither license grants rights to use them except as needed
 to describe the origin of the work.
 
-The exported widgets under weft/browser-sources/widgets/ were produced with a
-Google AI tool. At runtime they import JavaScript modules (React and UI
-libraries) from widgetlibs.static.usercontent.goog and load fonts, styles and
-images from Google hosts (fonts.googleapis.com, fonts.gstatic.com,
-www.gstatic.com). Those resources are not part of this repository and remain
-under their owners' terms.
+Third-party material and notices:
+
+  * Tailwind CSS v4.1.11 is inlined in the five exported widget HTML files under
+    weft/browser-sources/widgets/. Tailwind CSS is licensed under the MIT License:
+    Copyright (c) Tailwind Labs, Inc. (https://tailwindcss.com).
+
+  * The exported widgets under weft/browser-sources/widgets/ were produced with a
+    Google AI tool. At runtime they import JavaScript modules (React and UI
+    libraries) from widgetlibs.static.usercontent.goog and load fonts, styles and
+    images from Google hosts (fonts.googleapis.com, fonts.gstatic.com,
+    www.gstatic.com). Those resources are not part of this repository and remain
+    under their owners' terms.
+
+  * Quotations and excerpts: brief quotations and cited excerpts inside the
+    historical discovery transcripts remain the property of their respective
+    authors and are retained as part of the archival record.
