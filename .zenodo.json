@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "Weft corpus",
+    "description": "<p>This repository preserves, word for word, the original discovery sessions behind ML Weft: about sixty documents, the full browser-session transcripts, and five interactive widgets exported from the sessions.</p><p>It is source material, not instructions. The sessions often narrate commands running, contracts being deployed, and hardware being driven; none of that happened, and there is no Weft token and nothing is deployed on any chain.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "dataset",
+    "license": "CC-BY-4.0",
+    "keywords": [
+        "machine-learning",
+        "research"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Moissanite-Labs/weft-corpus",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "dataset"
+        }
+    ]
+}
